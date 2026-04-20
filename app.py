@@ -8,3 +8,4 @@ print(soma(2, 3))
 def subtracao(a, b):
     return a - b
 
+print(subtracao(5, 2))
